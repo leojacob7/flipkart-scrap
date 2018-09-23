@@ -25,3 +25,4 @@ for i in range(len(box)):
 msg="Best price for " + (heading[k].text[:18]) + " costs : " + str(min)
 server.sendmail("webscrapeleo@gmail.com", "leobjacob@gmail.com", msg)
 print ".........."
+print "........"
